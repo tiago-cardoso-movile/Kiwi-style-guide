@@ -6,7 +6,7 @@ This style guide is unique and exclusive for reference about brand colors, asset
 
 Powered by [Movile.](http://www.movile.com)
 
-Any questions, send contact for: kiwimanager@gmail.com
+Any questions, send contact for: kiwimovile@gmail.com
 
 Based on Brett Jankord's [Style Guide Boilerplate](http://brettjankord.com/projects/style-guide-boilerplate/)	
 

@@ -247,12 +247,6 @@
 		"whole_word": false,
 		"wrap": true
 	},
-	"folders":
-	[
-		{
-			"path": "/Users/tiago.cardoso/GitHub/Kiwi-style-guide"
-		}
-	],
 	"groups":
 	[
 		{
@@ -301,7 +295,7 @@
 		"height": 0.0
 	},
 	"pinned_build_system": "Packages/LESS-build/LESS.sublime-build",
-	"project": "",
+	"project": "kiwi.sublime-project",
 	"replace":
 	{
 		"height": 42.0
