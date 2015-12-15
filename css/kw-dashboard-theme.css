@@ -5699,6 +5699,13 @@ button.close {
     display: none !important;
   }
 }
+@font-face {
+  font-family: 'proxima_nova_softregular';
+  src: url('proximanovasoft-webfont.eot');
+  src: url('proximanovasoft-webfont.eot?#iefix') format('embedded-opentype'), url('proximanovasoft-webfont.woff2') format('woff2'), url('proximanovasoft-webfont.woff') format('woff'), url('proximanovasoft-webfont.ttf') format('truetype'), url('proximanovasoft-webfont.svg#proxima_nova_softregular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
 /* -------------------------------------------------------------------------
  Typography Styles
 ---------------------------------------------------------------------------- */
@@ -5946,6 +5953,7 @@ fieldset[disabled] .btn-cancel.active {
   height: 35px;
   border: 1px solid #BFC6CF;
   line-height: 0.12;
+  width: 100px;
   font-size: 12px;
   font-weight: 700;
   color: #3C4A60;
@@ -5991,6 +5999,7 @@ fieldset[disabled] .btn-cancel.active {
   font-weight: 700;
   color: #3C4A60;
   color: #f5a623;
+  min-width: 140px;
 }
 .kw-dropdown-switch:focus,
 .kw-dropdown-switch:active:focus,

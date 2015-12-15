@@ -108,10 +108,13 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/tiago.cardoso/GitHub/Kiwi-style-guide"
+		"/Users/tiago.cardoso/GitHub/Kiwi-style-guide",
+		"/Users/tiago.cardoso/GitHub/Kiwi-style-guide/docs"
 	],
 	"file_history":
 	[
+		"/etc/hosts",
+		"/Users/tiago.cardoso/GitHub/Kiwi-style-guide/docs/about.html",
 		"/Users/tiago.cardoso/GitHub/Style-Guide-Boilerplate-Bootstrap-Edition/Kiwi-StyleGuide.sublime-project",
 		"/Users/tiago.cardoso/GitHub/Style-Guide-Boilerplate-Bootstrap-Edition/css/kw-dashboard-theme.css",
 		"/Users/tiago.cardoso/GitHub/Style-Guide-Boilerplate-Bootstrap-Edition/less/mixins.less",
