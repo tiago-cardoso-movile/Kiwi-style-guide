@@ -5873,7 +5873,7 @@ footer.kw-footer {
   font-weight: normal;
 }
 .kw-sg-header {
-  width: 620px;
+  min-width: 7	00px;
   height: 55px;
   background-color: #1D242F;
   padding: 10px;
@@ -5957,6 +5957,8 @@ fieldset[disabled] .btn-cancel.active {
   font-size: 12px;
   font-weight: 700;
   color: #3C4A60;
+  padding: 5px !important;
+  display: inline-block;
 }
 .kw-dash-btn:focus,
 .kw-dash-btn:active:focus,
@@ -5990,7 +5992,7 @@ fieldset[disabled] .btn-cancel.active {
   color: #DBDBDB;
   font-size: 15px;
 }
-.kw-dropdown-switch {
+.kw-select-switch {
   background-color: #293443;
   height: 35px;
   border: 1px solid #414F64;
@@ -5999,15 +6001,17 @@ fieldset[disabled] .btn-cancel.active {
   font-weight: 700;
   color: #3C4A60;
   color: #f5a623;
-  min-width: 140px;
+  width: 140px !important;
+  padding: 5px;
+  display: inline-block;
 }
-.kw-dropdown-switch:focus,
-.kw-dropdown-switch:active:focus,
-.kw-dropdown-switch.active:focus {
+.kw-select-switch:focus,
+.kw-select-switch:active:focus,
+.kw-select-switch.active:focus {
   background-color: #1D242F;
 }
-.kw-dropdown-switch:hover,
-.kw-dropdown-switch:focus {
+.kw-select-switch:hover,
+.kw-select-switch:focus {
   color: #f5a623;
   text-decoration: none;
 }
