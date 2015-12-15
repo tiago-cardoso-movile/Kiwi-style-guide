@@ -273,7 +273,7 @@ html {
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 body {
-  font-family: 'Source Sans Pro', sans-serif;
+  font-family: "proxima-nova-soft", sans-serif;
   font-size: 16px;
   line-height: 1.42857143;
   color: #808080;
@@ -362,7 +362,7 @@ h6,
 .h4,
 .h5,
 .h6 {
-  font-family: 'Source Sans Pro', sans-serif;
+  font-family: "proxima-nova-soft", sans-serif;
   font-weight: 600;
   line-height: 1.1;
   color: #4a90e2;
@@ -5699,13 +5699,6 @@ button.close {
     display: none !important;
   }
 }
-@font-face {
-  font-family: 'proxima_nova_softregular';
-  src: url('proximanovasoft-webfont.eot');
-  src: url('proximanovasoft-webfont.eot?#iefix') format('embedded-opentype'), url('proximanovasoft-webfont.woff2') format('woff2'), url('proximanovasoft-webfont.woff') format('woff'), url('proximanovasoft-webfont.ttf') format('truetype'), url('proximanovasoft-webfont.svg#proxima_nova_softregular') format('svg');
-  font-weight: normal;
-  font-style: normal;
-}
 /* -------------------------------------------------------------------------
  Typography Styles
 ---------------------------------------------------------------------------- */
@@ -5857,19 +5850,19 @@ footer.kw-footer {
 .kw-stg-h2,
 .kw-stg-h3 {
   color: #000;
-  font-family: 'Source Sans Pro', sans-serif;
+  font-family: "proxima-nova-soft", sans-serif;
 }
 .kw-stg-h1 {
   font-size: 40px;
 }
 .kw-stg-normal {
   font-weight: normal;
-  font-family: 'Source Sans Pro', sans-serif;
+  font-family: "proxima-nova-soft", sans-serif;
 }
 .kw-title-styles {
   font-size: 18px;
   color: #C3C3C3;
-  font-family: 'Source Sans Pro', sans-serif;
+  font-family: "proxima-nova-soft", sans-serif;
   font-weight: normal;
 }
 .kw-sg-header {

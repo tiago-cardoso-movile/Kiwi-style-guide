@@ -7,6 +7,9 @@
 <title><?php echo($project_name)?>Style Guide</title>
 <meta name="viewport" content="width=device-width">
 
+<script src="https://use.typekit.net/zcu4qjs.js"></script>
+<script>try{Typekit.load({ async: true });}catch(e){}</script>
+
 <!-- Style Guide Boilerplate Styles -->
 <link rel="stylesheet" href="css/styleguide.css">
 
